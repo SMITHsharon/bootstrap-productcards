@@ -4,11 +4,11 @@
 This is a simple class application created to demonstrate and discuss `Bootstrap` capabilities and functionality. 
 
 
-#### Cat Product Page - Before Bootstrap
-![cat page before bootstrap](./images/before-bootstrap.png)
+<!-- #### Cat Product Page - Before Bootstrap
+![cat page before bootstrap](./im ages/before-bootstrap.png)-->
 
 #### Cat Product Page - After Bootstrap
-![cat page after bootstrap](./images/question-cat.jpeg)
+![cat page after bootstrap](https://raw.githubusercontent.com/rousell/bootstrap-productcards/master/images/before-bootstrap.png)
 
 
 ### Project Specs
